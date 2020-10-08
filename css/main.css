@@ -1,0 +1,19 @@
+a {
+    cursor: pointer;
+}
+
+.title-underlines {
+    width: 35vh;
+    height: 10px;
+    margin: 0 auto;
+    margin-top: 2vh;
+}
+
+#carousel {
+    background-image: linear-gradient(to right bottom, #b123d8, #008eff, #00c3ff, #00e6db, #0afd74);
+    max-height: max-content;
+}
+
+.p {
+    font-family: 'Great Vibes', cursive;
+}
